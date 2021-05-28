@@ -1,4 +1,4 @@
-let api = "https://127.0.0.1:11898/api";
+let api = "https://127.0.0.1:8070/api";
 let decimals = 5;
 let difficulty_target = 90;
 let ticker = "TCBM"
