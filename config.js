@@ -1,14 +1,10 @@
-let api = "https://Blocksum.org/api";
+let api = "https://127.0.0.1:11898/api";
 let decimals = 5;
 let difficulty_target = 90;
-let ticker = "XKR"
+let ticker = "TCBM"
 
 let pools = [ // Name, Site URL, API URL
-  ["Swepool", "https://swepool.org", "https://swepool.org/api/stats"],
-  ["Kryptokrona Pool2", "https://pool2.kryptokrona.se", "https://blocksum.org/pool2/stats"],
-  ["Floki Kryptokrona Pool", "https://floki.kryptokrona.se", "https://floki.kryptokrona.se/api/stats"],
-  ["GamersNest", "http://pool.gamersnest.org", "https://blocksum.org/gamersnest/stats"],
-  ["PoolPay", "https://xkr.pool-pay.com", "https://xkr.pool-pay.com:5383/stats"]
+
 
   //Removed some pools that were causing perfomance issues by not responding..
 
