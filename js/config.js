@@ -1,5 +1,5 @@
 const ExplorerConfig = {
-  apiBaseUrl: 'http://127.0.0.1:11898/api',
+  apiBaseUrl: 'http://45.61.137.96/api',
   ticker: 'TCBM',
   maxSupply: 100000000000000,
   emissionSpeed: 21,
