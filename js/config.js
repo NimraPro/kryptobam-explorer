@@ -1,6 +1,6 @@
 const ExplorerConfig = {
-  apiBaseUrl: 'https://blocksum.org/api',
-  ticker: 'XKR',
+  apiBaseUrl: 'http://127.0.0.1:8070/api',
+  ticker: 'TCBM',
   maxSupply: 100000000000000,
   emissionSpeed: 21,
   decimalPoints: 5,
